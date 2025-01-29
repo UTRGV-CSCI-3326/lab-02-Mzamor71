@@ -1,3 +1,8 @@
+/*
+    Name: Michael Zamora
+    SID: 20593343
+    Date: 1/28/2025
+ */
 public class MixMatch{
     public static void main(String[] args){
         String  word_1      = "Discombobulate";
